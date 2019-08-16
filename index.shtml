@@ -1,3 +1,4 @@
+
 ﻿<!DOCTYPE html>
 <!-- Based on Ashley theme by Brent Jackson (http://jxnblk.com) //-->
 <!-- Heavily modified by Mayuresh Kathe (http://kathe.in/) //-->
@@ -11,7 +12,16 @@
 		<meta name=viewport content='width=device-width, initial-scale=1'>
 		<link rel="stylesheet" type="text/css" href="style.css">
 		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-		
+	<!--<img src="/cgi-sys/Count.cgi?df=jpaul-jpaul5.dat|display=Counter|ft=6|md=5|frgb=100;139;216|dd=B"> -->
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145755951-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-145755951-1');
+</script>	
 	</head>
 	<body>
 		<header>
@@ -120,8 +130,8 @@ This book was apparently never digitized, so Paul has now done this, and the res
     <p>Link to <a href="fbp/index.shtml">Flow-Based Programming</a> web page.</p>
     <p>Link to <a href="https://groups.google.com/forum/#!forum/flow-based-programming">Flow-Based Programming Google group</a> web page.</p>
 <br>
-    <p>Blog: <a href="http://jpaulmorrison.blogspot.ca/">J. Paul
-        Morrison</a> </p>
+    <!-- <p>Blog: <a href="http://jpaulmorrison.blogspot.ca/">J. Paul
+        Morrison</a> </p> -->
     <p>Twitter: <a href="https://twitter.com/jpaulmorrison">@jpaulmorrison</a>
     </p>
     <p>LinkedIn: <a href="http://www.linkedin.com/in/jpaulm">J. Paul Morrison - LinkedIn</a>
@@ -134,18 +144,21 @@ This book was apparently never digitized, so Paul has now done this, and the res
 		</div>
 
 		<footer class="small wrap">	
-			<table border="0">
+			<!-- <table border="0">
 	<tr>
-		<td>
+		<td> -->
 			<p class="small">Content Copyright &copy; J Paul Morrison. All rights reserved.</p>
-		</td>
+	<!--	</td>
 	</tr>
 	<tr>
-		<td align="center">
-			<img src="/cgi-sys/Count.cgi?df=jpaul-jpaul2.dat|display=Counter|ft=6|md=5|frgb=100;139;216|dd=B"> 
-		</td>
+		<td align="center"> -->
+			
+
+	<!--	</td>
 	</tr>
-</table>	
+</table>	-->
+		
 		</footer>
 	</body>
 </html>
+
