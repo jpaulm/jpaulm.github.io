@@ -53,11 +53,14 @@ After his parents' divorce and his mother's subsequent marriage to Edward A. Mor
 <p>On this project, Paul was one of the lead architects - among other things, he designed:
 </p>
 <p>
-<ul><li>the Mech online database, </li>
+<ul>
+    <li>the Mech online database, </li>
 <li>a bilingual error message system (detailed design - the overall concept was developed by the late Art Farkas of the Bank),</li>
 <li>built a set of <a href="https://en.wikipedia.org/wiki/Structured_programming">Structured Programming</a> macros to make IBM's <a href="https://en.wikipedia.org/wiki/IBM_High_Level_Assembler">High Level Assembler Language</a> more usable (at the time these didn't exist for HLASM), </li>
 <li>specified the coding standards for the project, and of course </li>
-<li>built the first implementation of FBP (AMPS).</li></ul></p> 
+<li>built the first implementation of FBP (AMPS).</li>
+    </ul>
+</p> 
 <p>It should be pointed out that, during the almost 40 years after Paul left the project, the part of the Mech batch system written in AMPS was maintained entirely by Bank personnel (and maybe a few IBMers), many of whom had not even been born when it was written!</p>
 
 					<p>In 1976, at around the time Mech went "live", Paul transferred to Toronto, Canada, where he built a <a href="https://en.wikipedia.org/wiki/VM_(operating_system)">VM/CMS</a> implementation of the IBM document indexing product <a href="https://en.wikipedia.org/wiki/IBM_STAIRS">STAIRS</a>, called STAIRS/CMS.  STAIRS itself was originally developed in support of IBM's antitrust lawsuit in 1969, and STAIRS/CMS became quite a successful product, although it was more accepted in Europe than in N. America.  In the 1990s, IBM migrated customers to <a href="https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?infotype=dd&subtype=sm&appname=ShopzSeries&htmlfid=897/ENUS5695-070">IBM SearchManager/370</a> under VM, and provided migration facilities to help them to do this.  Paul spent the rest of his IBM career working on various FBP projects, and retired from IBM in 1992. </p>
@@ -100,14 +103,17 @@ This book was apparently never digitized, so Paul has now done this, and the res
 
 <h2>Publications</h2>
 
-<p><ul><li><i>Data Responsive Modular, Interleaved Task Programming System</i>, IBM Technical Disclosure Bulletin, Vol. 13, No. 8, 2425-26, January 1971</li>
+<p>
+                    <ul>
+    <li><i>Data Responsive Modular, Interleaved Task Programming System</i>, IBM Technical Disclosure Bulletin, Vol. 13, No. 8, 2425-26, January 1971</li>
 
 <li><i>Data Stream Linkage Mechanism</i>, IBM Systems Journal, Vol. 17, No. 4, 1978</li>
 
 <li><i>Flow-Based Programming: A New Approach to Application Development</i>, Van Nostrand Reinhold, NY, 1994. ISBN 0-442-01771-5. Now out of print, but available second-hand. It is also available in full on the <a href="fbp/index.shtml">FBP web site</a>.    Ed Yourdon kindly added this book to his list of <a href="http://www.yourdon.com/personal/books/gentech/index.html">cool books</a>.</li>
 
 <li><i>Flow-Based Programming, 2nd Edition: A New Approach to Application Development</i>, CreateSpace, 2010. ISBN 1-451-54232-1 </li> 
-</ul></p>
+</ul>
+</p>
 <h2><a name="contact">Contact Information</a></h2>    
    
     <table cellpadding="0" cellspacing="0" border="0">
@@ -136,8 +142,8 @@ This book was apparently never digitized, so Paul has now done this, and the res
     </p>
     <p>LinkedIn: <a href="http://www.linkedin.com/in/jpaulm">J. Paul Morrison - LinkedIn</a>
     </p>
-    </br>
-    </br>
+    
+    
     
 				</article>
 			</section>
